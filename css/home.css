@@ -1,0 +1,48 @@
+.bg{
+    
+    background-image: url('https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+    height: 45vw;
+  }
+  h1{
+    font-size: 50px;
+    font-family: Mokoto;
+    position: absolute;
+    left: 70px;
+    top: 150px;
+
+  
+  }
+  h2{
+    font-size: 50px;
+    color: black;
+    font-family: Mokoto;
+    position: absolute;
+    left: 150px;
+    top: 350px;
+  }
+  p{
+    text-align: center;
+    color: aliceblue;
+    font-family: Mokoto;
+    font-size: 30px;
+    position: absolute;
+    left: 250px;
+    top: 250px;
+  }
+  .image-container{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+  }
+  .image-container img{
+    width: 60%;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    position: fixed;
+    top:60px;
+    left: 650px;
+  }

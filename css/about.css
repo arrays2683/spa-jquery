@@ -1,0 +1,25 @@
+.bg{
+  
+    background-image: url('https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+    height: 45vw;
+  }
+  h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: Mokoto;
+
+  }
+  p{
+    text-align: center;
+    color: aliceblue;
+    font-family: Mokoto;
+  }
+  li{
+    text-align: center;
+    color: aliceblue;
+    font-family: Mokoto;
+  }
